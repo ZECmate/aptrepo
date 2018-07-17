@@ -6,9 +6,9 @@ Depends: default-jdk
 Priority: low
 Section: utils
 Filename: pool/main/z/zcashswingwallet/zcashswingwallet_1.0.0_all.deb
-Size: 38265660
-SHA256: 8cbdad758b75ae1d9d7dcdd11368ea0b48d594e27b496ef3bdc9016d6fcd3834
-SHA1: 0a62d9570c9e0675bed50fb61a8a4a724c465906
-MD5sum: 00f50ea050feff0b071e97c358fe0223
+Size: 8511392
+SHA256: 180b6dab1a89937358fa8111de87173e6bdec0a551be98f418ab44f44eaa0b66
+SHA1: 7cc264b4b624739e2d8f1b7efbc35393f42ce3e5
+MD5sum: c2aa761e34569d6fd87c0e6cd76df767
 Description: Zcash Swing Wallet is a UI java full node wallet for Zcash.
 
