@@ -7,7 +7,7 @@ gpg --keyserver keyserver.ubuntu.com --recv 69FAF6DE41B8AC51
 gpg --export 69FAF6DE41B8AC51| sudo apt-key add -
 
 sudo apt-get update
-sudo apt-get install zcashswingwallet # Installs Zcash Swing Wallet and Zcash binaries
+sudo apt-get install zcashswingwallet # Installs Zcash Swing Wallet, Zcash is needed to be installed, follow: https://z.cash/download.html
 ```
 
 ## Available Packages
