@@ -1,4 +1,4 @@
-# TheTrunk APT repository
+# ZECmate APT repository TO BE SET UP
 
 Use the following to set it up. 
 ```
