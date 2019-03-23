@@ -1,14 +1,15 @@
-Package: zcashswingwallet
-Version: 1.0.0
-Maintainer: TheTrunk
+Package: zecmate
+Version: 1.2.2
 Architecture: all
-Depends: default-jdk
+Depends: default-jdk, zcash
+Installed-Size: 12560
+Maintainer: tadeas.kmenta@zel.cash
 Priority: low
-Section: utils
-Filename: pool/main/z/zcashswingwallet/zcashswingwallet_1.0.0_all.deb
-Size: 8511392
-SHA256: 180b6dab1a89937358fa8111de87173e6bdec0a551be98f418ab44f44eaa0b66
-SHA1: 7cc264b4b624739e2d8f1b7efbc35393f42ce3e5
-MD5sum: c2aa761e34569d6fd87c0e6cd76df767
-Description: Zcash Swing Wallet is a UI java full node wallet for Zcash.
+Section: misc
+Filename: pool/main/z/zecmate/zecmate_1.2.2_all.deb
+Size: 12627304
+SHA256: 2e006abecddc8b79b9132799b484b724c87da2ffc0625a35e5f70ffed4759e8e
+SHA1: 49e80e44ac5132b6f9ef628a471b3699facdc23a
+MD5sum: 139cfae03b8a7b930c8b66621b2a2f60
+Description: ZECmate Swing Wallet - Desktop GUI Wallet for Zcash
 
