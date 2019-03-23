@@ -7,9 +7,9 @@ Maintainer: tadeas.kmenta@zel.cash
 Priority: low
 Section: misc
 Filename: pool/main/z/zecmate/zecmate_1.2.2_all.deb
-Size: 12627304
-SHA256: 2e006abecddc8b79b9132799b484b724c87da2ffc0625a35e5f70ffed4759e8e
-SHA1: 49e80e44ac5132b6f9ef628a471b3699facdc23a
-MD5sum: 139cfae03b8a7b930c8b66621b2a2f60
+Size: 12627420
+SHA256: 57327c5783df7bd3e0695d0821af56de01105cda6281c2141bddae1177a32ec0
+SHA1: a17a5ad5d0dc517c960903f3ef74fe4495020286
+MD5sum: dbd143a81320e2f3c0f19246db93fef3
 Description: ZECmate Swing Wallet - Desktop GUI Wallet for Zcash
 
