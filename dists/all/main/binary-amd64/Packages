@@ -1,15 +1,15 @@
 Package: zecmate
-Version: 1.4.0
+Version: 1.6.0
 Architecture: all
 Depends: default-jdk, zcash
-Installed-Size: 12586
+Installed-Size: 12589
 Maintainer: tadeas.kmenta@zel.cash
 Priority: low
 Section: misc
-Filename: pool/main/z/zecmate/zecmate_1.4.0_all.deb
-Size: 12651278
-SHA256: 087c26f70cd75996cf31103ff09f0396299c3c0f38165897871c2ec4a0d0c4f5
-SHA1: d37419a0f3e37c029ab4ec67ad589da214bdbf3b
-MD5sum: 586d0335057a63f2120f945aa29fdb38
+Filename: pool/main/z/zecmate/zecmate_1.6.0_all.deb
+Size: 12655980
+SHA256: f6d91e62b5197d7e8f7ade221dc1ba36314e7a3cb519ffd6f8bdfb32b19df7c5
+SHA1: ec741c12c0b2d10898622c1c1e31d1c26717a626
+MD5sum: 1f70443af76d5ae60e6229291a689010
 Description: ZECmate Swing Wallet - Desktop GUI Wallet for Zcash
 
